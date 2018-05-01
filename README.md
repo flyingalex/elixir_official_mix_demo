@@ -1,4 +1,3 @@
-# KvUmbrella
+# elixir_official_mix_demo
 
-**TODO: Add description**
-
+learn from the official awesome project
